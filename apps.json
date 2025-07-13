@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Steam",
+    "url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3/3782.png"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://download.scdn.co/SpotifySetup.exe",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3671/3671955.png"
+  },
+  {
+    "name": "Google Chrome",
+    "url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26browser%3D0%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26brand%3DGTPM/update2/installers/ChromeSetup.exe",
+    "icon": "https://cdn-icons-png.flaticon.com/512/13/13770.png"
+  },
+  {
+    "name": "7-Zip",
+    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/466446150/c2bad857-316d-4db2-8fdd-f1c81f078739?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250713T163913Z&X-Amz-Expires=1800&X-Amz-Signature=e7f4d84b713c209e154de47ca65a6abf034a82366964ea6e89c65e54c3e9bb07&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D7z2500-x64.exe&response-content-type=application%2Foctet-stream",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3621/3621533.png"
+  }
+]
